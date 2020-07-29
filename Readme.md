@@ -28,7 +28,6 @@ node index.js
 
 * Your pattern file is like a grid with dimensions of 7\*X. (7 rows and X>0 columns)
 * Each cell in the grid represents number of commits to be made on a day.
-* Look at patterns/hireme for reference.
 
 
 ## Requirements
